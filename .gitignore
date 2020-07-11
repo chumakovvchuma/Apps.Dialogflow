@@ -2,7 +2,6 @@
 node_modules/
 
 # rc-apps package output
-dist/
 
 # JetBrains IDEs
 out/
